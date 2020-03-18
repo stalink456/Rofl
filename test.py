@@ -10,3 +10,5 @@ print("Hello Petr!")
 
 for i in range(1, 10, 1):
     pass
+
+print("Hello again")
