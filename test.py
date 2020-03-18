@@ -14,3 +14,5 @@ for i in range(1, 10, 1):
 print("Hello again")
 
 new_list = list()
+
+new_dict = dict()
